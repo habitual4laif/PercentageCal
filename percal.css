@@ -1,0 +1,26 @@
+body {
+    margin-left: 3rem;
+    
+}
+
+div.cal {
+    background-color: #f0f0f0;
+    padding: 1rem;
+}
+
+p {
+    margin-left: 10rem;
+}
+
+#numField1, 
+#numField2 {
+    border-radius: 10px;
+    width: 12rem;
+    height: 2rem;
+}
+
+input {
+    height: 1.5rem;
+    width: 6rem;
+}
+
